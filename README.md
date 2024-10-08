@@ -1,4 +1,14 @@
 # Project 1: MD Simulations of RNA Acridine:G-quadruplexes
+MY MOVIE:
+
+
+
+![output](https://github.com/user-attachments/assets/6ba5f681-6a89-404e-877e-d803bf067a76)
+
+
+
+
+
 
 Note: You are strongly encouraged to work together.  However, each person is responsible for producing and submitting their own work.
 
